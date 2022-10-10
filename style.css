@@ -177,6 +177,67 @@ input[type="submit"]:hover{
   -webkit-animation-delay: .1s;
   animation-delay: .1s;
 }
+/* Aside */
+.corpo{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border: 3px solid #ffffff;
+}
+.aside{
+
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 369px;   
+  height: 800px;
+  border: 3px solid #edf0e8;
+
+}
+h3{
+  font-size: 55px;
+  color: #066a75;
+  padding: 2px 0 10px 0;
+  font-family: Arial,sans-serif;
+  font-weight: bold;
+  text-align: center;
+
+
+}
+
+.nav{
+
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 200px;   
+  height: 800px;
+  border: 3px solid #edf0e8;
+
+}
+.footer{
+
+  position: absolute;
+  top: 900px;
+  right: 0;
+  width: 100%;   
+  height: 100px;
+  border: 3px solid #d11515;
+
+}
+.section{
+  position: absolute;
+  top: 100px;
+  right: 400px;
+  left: 210px; ;
+  width: 1470px;   
+  height: 780px;
+  border: 3px solid #d11515;
+
+
+
+}
+
  
 /* Efeito ao clicar no botão ( Cadastre-se ) */
 #registro:target ~ .content #login,
