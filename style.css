@@ -243,6 +243,48 @@ h3{
   height: 330px;
 
 }
+.vagas1{
+  position: absolute;
+  top: 20px;
+  right: 30;
+  width: 300px;   
+  height: 300px;
+  border: 3px solid #000000;
+  background-color: #dbe5e8;
+  border-radius: 10px;
+}
+.vagas2{
+  position: absolute;
+  top: 0px;
+  right: -400px;
+  width: 300px;   
+  height: 300px;
+  border: 3px solid #000000;
+  background-color: #dbe5e8;
+  border-radius: 10px;
+}
+.vagas3{
+  position: absolute;
+  top: 0px;
+  right: -450px;
+  width: 300px;   
+  height: 300px;
+  border: 3px solid #000000;
+  background-color: #dbe5e8;
+  border-radius: 10px;
+}
+
+.texto{
+  position: absolute;
+  color: #000000;
+  top: 100px;
+  right:  15px;
+  width: 270px;   
+  height: 150px;
+  border: 3px solid #cac0c0;
+  background-color: #dbe5e8;
+
+}
 
  
 /* Efeito ao clicar no botão ( Cadastre-se ) */
