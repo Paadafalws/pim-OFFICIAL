@@ -6,7 +6,7 @@
   }
   body {
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgb(28, 19, 194) 0%, rgb(255, 251, 0) 62%, rgba(0, 0, 0, 0.956) 100%);
+    background: linear-gradient(90deg, rgb(143, 142, 153) 0%, rgb(214, 214, 196) 62%, rgba(0, 0, 0, 0.956) 100%);
   }
    
   /* remove a linha dos links */
