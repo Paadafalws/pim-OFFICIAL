@@ -212,9 +212,34 @@ h3{
   left: 0;
   width: 200px;   
   height: 800px;
-  border: 3px solid #edf0e8;
+  border: 3px solid #ffffff;
 
 }
+.foto{
+
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 194px;   
+  height: 200px;
+  border: 3px solid #9ffa03;
+  border-radius: 20px;
+   border-radius  : 10px;
+
+}
+.caixa_de_msg{
+  position: absolute;
+  top: 300px;
+  left: 0;
+  width: 194px;   
+  height: 200px;
+  border: 3px solid #ffffff;
+  border-radius: 20px;
+   border-radius  : 10px;
+}
+
+
+
 .footer{
 
   position: absolute;
